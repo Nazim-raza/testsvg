@@ -1379,7 +1379,7 @@
   .fs-22 {
       font-size:22px;
   }
-  
+   
   /* Home Icons Animation */
   .image1 {
       top: 20px;
@@ -1389,7 +1389,7 @@
       z-index: -2;
   }
 
-  
+
   @keyframes image1 {
       0% {
           opacity: 0;
