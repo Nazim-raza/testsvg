@@ -1390,6 +1390,14 @@
   }
 
 
+  img {
+    image-rendering: optimizeQuality;
+    -webkit-backface-visibility: hidden; /* Fix rendering glitches in Safari */
+  }
+
+  
+
+
   @keyframes image1 {
       0% {
           opacity: 0;
